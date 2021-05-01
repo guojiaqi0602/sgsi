@@ -1,0 +1,14 @@
+{
+  "rom_url": "https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu18_Pro%2F9.0.1.1%2Fcn%2F20210401154119%2F0c64275d%2Fupdate.zip",
+  "rom_name": "update.zip",
+  "pack_sgsi": "SGSI.zip",
+  "make_type": "AB",
+  "rom_type": "Flyme",
+  "light_fix": true,
+  "bug_fix": true,
+  "version": "11",
+  "upload_transfer": true,
+  "upload_release": false,
+  "use_7zip": false,
+  "use_zip": true
+}
